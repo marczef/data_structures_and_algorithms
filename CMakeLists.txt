@@ -14,9 +14,7 @@ include_directories(data_structures/inc)
 
 # Wskazanie plików źródłowych
 set(SOURCES
-    main.cc
-    data_structures/src/linked_list.cc
-)
+    main.cc)
 
 # Tworzenie pliku wykonywalnego
 add_executable(main ${SOURCES})

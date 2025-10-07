@@ -1,12 +1,5 @@
-#include "data_structures\inc\linked_list.h"
+#include <iostream>
 
 int main() {
-    LinkedList list;
-    list.insert(4);
-    // list.insert(5);
-    // list.insert(6);
-    // list.insert(78);
-    list.deleteEnd();
-    list.print();
-    std::cout<<"Hello word";
+    std::cout<<"hello";
 }
