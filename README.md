@@ -5,7 +5,7 @@ A comprehensive collection of data structures and algorithms for interview prepa
 ## Table of Contents
 - [Data Structures](#data-structures)
 - [Algorithms](#algorithms)
-- [Interview Preparation](#interview-preparation)
+- [TODO Leetcode Problems](#todo-leetcode-problems)
 
 ## Data Structures
 
@@ -234,21 +234,12 @@ A comprehensive collection of data structures and algorithms for interview prepa
 - Maximum subarray XOR
 - Power of two check
 
-## Interview Preparation
-
-### Strategy
-1. **Foundation First:** Master core data structures implementation
-2. **Pattern Recognition:** Categorize problems by technique
-3. **Complexity Analysis:** Always articulate time/space complexity
-4. **Practice:** Solve problems on LeetCode, HackerRank
-5. **Mock Interviews:** Practice explaining thought process aloud
-
-### Key Focus Areas
-- Graphs and Graph Traversals
-- Dynamic Programming
-- Tree Operations
-- System Design Principles
-- Time/Space Complexity Analysis
+## TODO Leetcode Problems
+- 269. Alien Dictionary
+- 444. Sequence Reconstruction
+- https://leetcode.com/problem-list/topological-sort/
+- https://leetcode.com/problem-list/union-find/
+- 51. N-Queens
 
 ### Resources
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
